@@ -9,3 +9,5 @@ void Aplicacion::actualizar (double delta) {
     std::cout << "Frame logico. Delta fijo: " << delta
     << "s | Tiempo acumulado: " << tiempoSimuladoTotal << "s\n";
 }
+// Este codigo sera el que se usara para probar el delta y verificar la estabilidad del sistema
+// Hay que documentarlo
